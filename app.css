@@ -2,7 +2,21 @@ body{
   font-family: 'Nunito', sans-serif;
   background-color: #f5d9df;
 }
-
+.blab h2 {
+  color:#ea1c2c;
+  text-transform: uppercase;
+  font-weight: 200;
+  font-size: 2.5rem;
+}
+.blab p{
+  color:#f496b8;
+  font-weight: 100;
+  font-size: 1.25rem;
+  line-height: 2;
+}
+.content{
+  margin-top:100px;
+}
 #mainNavbar {
   font-size: 1.5rem;
   font-weight: 100;
