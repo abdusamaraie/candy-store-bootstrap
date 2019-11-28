@@ -17,6 +17,10 @@ body{
 .content{
   margin-top:100px;
 }
+.navbar.scrolled{
+  background-color: rgba(222,192,222,0.8);
+  transition: background 300ms;
+}
 #mainNavbar {
   font-size: 1.5rem;
   font-weight: 100;
